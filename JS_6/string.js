@@ -51,7 +51,7 @@ for(var ch of str3){
 
 console.log("Concatenation");
 
-//A string is immutable in Javaascript, it can be concatenated using (+) operator in JS.
+//A string is immutable in Javascript, it can be concatenated using (+) operator in JS.
 
 var str4 = "Hello" + " World" + " From" + " India";
 console.log(str4);
@@ -106,4 +106,4 @@ console.log("Template Literal");
 let str14 = "Ashwin Late";
 let greet = `Hi ${str14}`;    //Template string
 
-console.log(greet);
+console.log(greet);         //Hi Ashwin Late
