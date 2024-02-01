@@ -34,8 +34,8 @@ console.log(a);
 - Syntax -> string.from char code();
 */
 
-let char = String.fromCharCode(69);
-var a = String.fromCharCode(99);
+let char = String.fromCharCode(69);  
+var a = String.fromCharCode(99);     
 console.log(char);
 console.log(a);
 
